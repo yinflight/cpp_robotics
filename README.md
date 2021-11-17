@@ -26,13 +26,15 @@ This is the C++ implementation of the [PythonRobotics](https://github.com/Atsush
   * dijkstra
   * a star
   * dubins path
+  * frenet planner
   * reeds shepp path
   * rrt
   * rrt dubins
-  * rrt reeds shepp
+  * rrt reeds sheep
   * rrt star
   * rrt star dubins
   * rrt_star reeds shepp
+  * state lattice planner
   * closed loop rrt star
   * dynamic window approach
   * cubic spline
@@ -40,6 +42,8 @@ This is the C++ implementation of the [PythonRobotics](https://github.com/Atsush
   * move to pose
   * pure pursuit
   * stanley controller
+  * model_predictive_control
+  * linear_quadratic_regulator
 * path smooth
   * path smooth
 
