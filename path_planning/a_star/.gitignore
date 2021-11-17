@@ -1,6 +1,6 @@
 *.zip
 *.tar.gz
-
+*.o
 /cmake-build-debug
 
 /.vscode
