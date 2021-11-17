@@ -1,2 +1,7 @@
 *.zip
 *.tar.gz
+*.o
+/cmake-build-debug
+/build
+/.vscode
+/.idea
