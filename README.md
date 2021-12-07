@@ -49,6 +49,3 @@ This is the C++ implementation of the [PythonRobotics](https://github.com/Atsush
 
 # License 
 - MIT
-
-# Authors
-- [zhouzuhong](https://github.com/Forrest-Z/)
